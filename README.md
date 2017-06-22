@@ -1,5 +1,5 @@
 # ecc1211.github.io
-"The words of the wise are like goads, and like well-driven nails are the collections of them; they are given by one Shepherd." 
+"The words of the wise are like goads, and like well-driven nails are the collections of them; they are given by one Shepherd."
 
 
 (Ecclesiastes 12:11)
